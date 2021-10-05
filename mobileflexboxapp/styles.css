@@ -11,7 +11,7 @@
   body {
     height: 100vh;
     display: flex;
-    background: #613327;
+    background: #041615;
   }
   
   .mobile-layout {
@@ -20,7 +20,7 @@
     margin: auto;
     display: flex;
     flex-direction: column;
-    background: #fff;
+    background: rgb(133, 120, 120);
   }
   
   .mobile-layout > * {
@@ -35,7 +35,7 @@
   .mobile-layout-footer {
     color: #fff;
     text-shadow: 1px 1px 1px rgba(0,0,0,.1);
-    background: #C70039;
+    background: #331b8b;
   }
   
   .mobile-layout-header {
